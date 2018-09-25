@@ -1,7 +1,5 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-// const sha256 = require('js-sha256');
-// const db = require('../database-mongo');
 
 const app = express();
 
